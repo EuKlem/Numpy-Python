@@ -1,2 +1,2 @@
 # Numpy-Python
-Programas utilizando o Numpy 
+Programas utilizando o Numpy. 
